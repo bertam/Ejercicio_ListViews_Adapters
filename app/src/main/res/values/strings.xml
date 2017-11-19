@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Ejercicio_ListViews_Adapters</string>
+    <string name="android_icon">android_icon</string>
+    <string name="main_product_name">Android</string>
+    <string name="main_product_stock">Stock</string>
+    <string name="cantidad_default">0</string>
+    <string name="main_cancel">Cancel</string>
+    <string name="main_buy">Buy</string>
+    <integer-array name="stock_array">
+        <item>5</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>10</item>
+        <item>20</item>
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </integer-array>
+    <string-array name="nombre_productos">
+        <item>Twitter</item>
+        <item>Linkedin</item>
+        <item>Mail</item>
+        <item>Twitters</item>
+        <item>Linkessdin</item>
+        <item>ss</item>
+        <item>Twitssster</item>
+        <item>Linkssedin</item>
+        <item>Maissl</item>
+        <item>Twssitter</item>
+        <item>Linskedin</item>
+        <item>Massil</item>
+    </string-array>
+</resources>
